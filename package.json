@@ -1,0 +1,22 @@
+{
+  "name": "spotfront-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabystern/spotfront-product-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabystern/spotfront-product-list/issues"
+  },
+  "homepage": "https://github.com/gabystern/spotfront-product-list#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
